@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "firstName": "CBL",
+    "lastName": "Admin",
+    "email": "cbltracking001@gmail.com",
+    "country": "Global",
+    "password": "$2b$10$3i1duWqkiZqVGrMPoofK7.a1vPp8KK9yQ9EhGzAPbWmaxknk.ZmuS",
+    "createdAt": "2025-07-01T03:56:48.615Z",
+    "isAdmin": true,
+    "avatar": null
+  },
+  {
+    "id": 1751342287865,
+    "firstName": "Emmanuel",
+    "lastName": "Henshaw",
+    "email": "emmy5@gmail.com",
+    "country": "NG",
+    "password": "$2b$10$RnI6fkM34mRatqSUYP6YYuVSjbe.SdQmHA5ZYNHrz.OmjRX4GAteG",
+    "createdAt": "2025-07-01T03:58:07.865Z",
+    "isAdmin": true,
+    "avatar": "/uploads/1751342310722.jpg"
+  }
+]

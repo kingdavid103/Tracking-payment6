@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "firstName": "CBL",
+    "lastName": "Admin",
+    "email": "cbltracking001@gmail.com",
+    "country": "Global",
+    "password": "$2b$10$3i1duWqkiZqVGrMPoofK7.a1vPp8KK9yQ9EhGzAPbWmaxknk.ZmuS",
+    "createdAt": "2025-07-01T03:56:48.615Z",
+    "isAdmin": true,
+    "avatar": null
+  },
+  {
+    "id": 1751342287865,
+    "firstName": "Emmanuel",
+    "lastName": "Henshaw",
+    "email": "emmy5@gmail.com",
+    "country": "NG",
+    "password": "$2b$10$RnI6fkM34mRatqSUYP6YYuVSjbe.SdQmHA5ZYNHrz.OmjRX4GAteG",
+    "createdAt": "2025-07-01T03:58:07.865Z",
+    "isAdmin": false,
+    "avatar": "/uploads/1751342310722.jpg"
+  },
+  {
+    "id": "1751469215619",
+    "firstName": "Emmanuel",
+    "lastName": "Henshaw",
+    "email": "emmy2@gmail.com",
+    "password": "$2b$10$SubM0BX7q5WZ8UvM9oP6u.j.01glRSqxgRPRHf8J0GEBh4BW4K5b.",
+    "country": "NG",
+    "isAdmin": false,
+    "createdAt": "2025-07-02T15:13:35.619Z"
+  },
+  {
+    "id": "1751473372729",
+    "firstName": "EmmyHenz",
+    "lastName": "Emmy",
+    "email": "emmyhenztech@gmail.com",
+    "password": "$2a$10$DRP6KdZm0oQns9eTVqJ2nuw023yhmseeyj/mV009bv/UUnOuL38N2",
+    "country": "FR",
+    "isAdmin": false,
+    "createdAt": "2025-07-02T16:22:52.731Z"
+  }
+]

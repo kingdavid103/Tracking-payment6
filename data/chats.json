@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1751342328475,
+    "userId": 1751342287865,
+    "userName": "Emmanuel Henshaw",
+    "userEmail": "emmy5@gmail.com",
+    "messages": [
+      {
+        "id": 1751342328475,
+        "message": "I want to place a new order",
+        "sender": "user",
+        "timestamp": "2025-07-01T03:58:48.475Z",
+        "read": false
+      },
+      {
+        "id": 1751342341748,
+        "message": "I need help tracking my order",
+        "sender": "user",
+        "timestamp": "2025-07-01T03:59:01.748Z",
+        "read": false
+      }
+    ],
+    "unreadCount": 2,
+    "lastMessage": "I need help tracking my order",
+    "createdAt": "2025-07-01T03:58:48.475Z",
+    "updatedAt": "2025-07-01T03:59:01.748Z"
+  }
+]
